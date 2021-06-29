@@ -1,7 +1,7 @@
 # Google Foobar Challenge
 Foobar is a semi-secret hiring challenge Google put out there to find talented developers via somewhat unconventional yet fitting means. Foobar is a series of five levels of algorithmic questions of ever-increasing difficulty and allotted time to solve these questions. Once the developer requests a question, the clock starts ticking.
 
-If you want to learn more about my experience with Foobar, go ahead and read the corresponding (blog post)[https://towardsdatascience.com/google-has-a-secret-hiring-challenge-called-foobar-this-is-how-i-got-in-and-why-i-love-the-14625bfcea7a]
+If you want to learn more about my experience with Foobar, go ahead and read the corresponding [https://towardsdatascience.com/google-has-a-secret-hiring-challenge-called-foobar-this-is-how-i-got-in-and-why-i-love-the-14625bfcea7a](blog post)
 
 This is my submission to the Google Foobar challenge. If you are curious about the Foobar challenge read the blog post here.
 
